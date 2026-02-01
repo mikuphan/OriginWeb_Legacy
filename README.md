@@ -93,6 +93,8 @@ OriginOS WEB: Quandz24
 
 Archive & extraction: mikuphan
 
+Homepage is not here. Only for Vietnamese
+
 
 
 
@@ -180,4 +182,6 @@ Vui lòng ghi credit khi sử dụng lại.
 OriginOS WEB: Quandz24
 
 Trích xuất & archive: mikuphan
+
+Homepage (VI):  https://mikuphan.github.io/OriginLegacy_Homepage/
 
