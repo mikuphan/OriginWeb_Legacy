@@ -2,7 +2,7 @@
 OriginWEB Legacy (Archived Versions)
 
 > Original project: OriginOS WEB by Quandz24
-  Project: Made by TuxGuy:)
+  Project: Made by mikuphan
 
 
 
@@ -54,15 +54,15 @@ Works better on low-end devices
 
 Open directly in your browser:
 
-V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
+V1.2 (V1.2.50): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.5/
 
-V1.2 (V1.2.60) : https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.6/
+V1.2 (V1.2.60) : https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.6/
 
-V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
+V1.2 (V1.2.70): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2/
 
-V1.3: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.3/
+V1.3: https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3/
 
-V1.4: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.4/
+V1.4: https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4/
 
 
 No installation required.
@@ -90,7 +90,7 @@ Please keep proper credit when redistributing.
 
 OriginOS WEB: Quandz24
 
-Archive & extraction: realmegt3hypee
+Archive & extraction: mikuphan 
 
 
 
@@ -120,36 +120,20 @@ Repo này KHÔNG phải bản official của Quandz24
 
 ---
 
-✨ Vì sao nên dùng bản Legacy?
-
-Giao diện OriginOS đời đầu
-
-Load nhanh hơn
-
-Ít JS hơn → mượt hơn
-
-Phù hợp máy yếu hoặc trải nghiệm hoài niệm
-
-
-
-
-
-
----
-
 🌐 Cách truy cập (Online)
 
 Mở trực tiếp bằng trình duyệt:
 
-V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
+V1.2 (V1.2.50): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.5/
 
-V1.2 (V1.2.60) : https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.6/
+V1.2 (V1.2.60) : https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.6/
 
-V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
+V1.2 (V1.2.70): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2/
 
-V1.3: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.3/
+V1.3: https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3/
 
-V1.4: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.4/
+V1.4: https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4/
+
 
 
 Không cần cài đặt gì thêm.
@@ -218,15 +202,15 @@ Trích xuất & archive: mikuphan
 
 Откройте напрямую в браузере:
 
-V1.2 (V1.2.50): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.5/
+V1.2 (V1.2.50): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.5/
 
-V1.2 (V1.2.60) : https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2.6/
+V1.2 (V1.2.60) : https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.6/
 
-V1.2 (V1.2.70): https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.2/
+V1.2 (V1.2.70): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2/
 
-V1.3: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.3/
+V1.3: https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3/
 
-V1.4: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.4/
+V1.4: https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4/
 
 Дополнительная установка не требуется.
 
@@ -250,6 +234,67 @@ V1.4: https://chomperhypelinux.github.io/OriginWeb_OldVersion/Ver1.4/
 
 OriginOS WEB: Quandz24
 
-Распаковка и архивирование: realmegt3hypee
+Распаковка и архивирование: mikuphan
 
-Readme script by mikuphan
+---
+
+🇨🇳 中国
+
+📌 关于本仓库
+
+本仓库包含 OriginOS WEB 的旧版本（v1.2 – v1.4），最初由 Quandz24 创建。
+
+这些版本被存档并保存的原因如下：
+
+原始链接已失效
+
+部分分支移除了旧版本
+
+与新版本相比，旧版本提供更轻量、更流畅的体验
+
+
+⚠️ 注意：
+
+本仓库并非 Quandz24 的官方项目
+
+本仓库为归档/保存仓库。
+
+---
+
+🌐 如何访问（在线）
+
+直接使用浏览器打开：
+
+V1.2 (V1.2.50): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.5/
+
+V1.2 (V1.2.60): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2.6/
+
+V1.2 (V1.2.70): https://mikuphan.github.io/OriginWeb_Legacy/Ver1.2/
+
+V1.3: https://mikuphan.github.io/OriginWeb_Legacy/Ver1.3/
+
+V1.4: https://mikuphan.github.io/OriginWeb_Legacy/Ver1.4/
+
+---
+
+🧩 Fork & Modification
+
+这是一个开源项目，您可以：
+
+Fork 仓库
+
+修改 UI/动画
+
+添加 JS 模块（Magisk 式模拟）
+
+重用时请注明出处.
+
+---
+
+📜 版权声明
+
+OriginOS WEB：Quandz24
+
+提取及存档：mikuphan
+
+
